@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/ftTony/node-spider#readme",
   "dependencies": {
-    "koa": "^2.11.0"
+    "koa": "^2.11.0",
+    "mysql": "^2.17.1",
+    "superagent": "^5.1.0"
   }
 }
